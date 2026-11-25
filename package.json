@@ -1,0 +1,1 @@
+{"description":"make.fun entry: The Dog Ate My Homework — Funniest Excuse (one line, dog's own voice)","license":"MIT","main":"main.ts","name":"makefun-dog-ate-homework-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
